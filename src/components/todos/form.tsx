@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { PlusIcon } from 'lucide-react';
 
-import { useTodoStore } from '@/hooks/use-todos-store';
+import { useTodoStore } from '@/hooks/use-todo-store';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 

@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { TrashIcon } from 'lucide-react';
 
-import { useTodoStore } from '@/hooks/use-todos-store';
+import { useTodoStore } from '@/hooks/use-todo-store';
 import { Button } from '@/components/ui/button';
 import {
   Table,
